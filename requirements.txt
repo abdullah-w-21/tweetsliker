@@ -1,0 +1,4 @@
+streamlit~=1.43.2
+tweepy~=4.15.0
+toml~=0.10.2
+python-dotenv~=1.0.1
